@@ -1,0 +1,28 @@
+﻿Individual Research Task: Introduction to Machine Learning CS3111
+Each student is required to complete an individual research project based on a classical machine learning task using a publicly available dataset. Deep learning methods are not permitted.
+Task Requirements
+* Select one approved dataset and task from the provided list. ( you can use your own ideas that are not listed in the sheets also , thats just for an example ) 
+
+* Study the given benchmark or reference paper related to the selected task.
+
+* Reproduce the baseline results reported in the reference paper using classical ML methods.
+
+* Propose and implement well-justified improvements, such as:
+
+   * Improved data preprocessing or feature engineering
+
+   * Better model selection or ensemble methods
+
+   * Hyperparameter optimization
+
+   * Handling class imbalance or noise
+
+      * Evaluate models using appropriate performance metrics and proper validation techniques.
+
+High-quality submissions may be extended and submitted to student conferences or workshops under instructor supervision.
+
+
+Research Topics : Intro to ML - Research Topics
+
+
+Conferences in Srilanka : IEEE Data Science Conferences Sri Lanka
